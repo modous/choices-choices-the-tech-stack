@@ -5,7 +5,7 @@ De instructie vind je in: [docs/INSTRUCTIONS.md](https://github.com/fdnd-task/ch
 # Strandeiland
 ![Schermafbeelding 2023-10-10 om 14 33 52](https://github.com/Stefan-Espant/hallo-strandeiland/assets/89298385/e6613e0a-6898-4237-ad3d-13577cc94de4)
 
-
+Mijn Epic is de overzichtspagina van alle wensen namaken van Strandeiland. Ik gebruik het framework Remix en de Payload headless cms.
 ## Inhoudsopgave
 
   * [Beschrijving](#beschrijving)

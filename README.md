@@ -2,8 +2,9 @@
 Onderstaande outline ga je gedurende deze taak in jouw eigen GitHub omgeving uitwerken. 
 De instructie vind je in: [docs/INSTRUCTIONS.md](https://github.com/fdnd-task/choices-choices-the-tech-stack/blob/main/docs/INSTRUCTIONS.md)
 
-# Titel
-<!-- Geef je project een titel en schrijf in één zin wat het is -->
+# Strandeiland
+![Schermafbeelding 2023-10-10 om 14 33 52](https://github.com/Stefan-Espant/hallo-strandeiland/assets/89298385/e6613e0a-6898-4237-ad3d-13577cc94de4)
+
 
 ## Inhoudsopgave
 
